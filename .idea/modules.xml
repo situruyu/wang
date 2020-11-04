@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/tea-wang-common/tea-wang-common.iml" filepath="$PROJECT_DIR$/tea-wang-common/tea-wang-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tea-wang-rpc/tea-wang-rpc.iml" filepath="$PROJECT_DIR$/tea-wang-rpc/tea-wang-rpc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/wang.iml" filepath="$PROJECT_DIR$/.idea/wang.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tea-wang-common/wang-common-model/wang-common-model.iml" filepath="$PROJECT_DIR$/tea-wang-common/wang-common-model/wang-common-model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tea-wang-common/wang-common-sdk/wang-common-sdk.iml" filepath="$PROJECT_DIR$/tea-wang-common/wang-common-sdk/wang-common-sdk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tea-wang-common/wang-common-service/wang-common-service.iml" filepath="$PROJECT_DIR$/tea-wang-common/wang-common-service/wang-common-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tea-wang-rpc/wang-rpc-server/wang-rpc-server.iml" filepath="$PROJECT_DIR$/tea-wang-rpc/wang-rpc-server/wang-rpc-server.iml" />
+    </modules>
+  </component>
+</project>

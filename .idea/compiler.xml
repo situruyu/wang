@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="wang-common-model" />
+        <module name="wang-common-service" />
+        <module name="wang-common-sdk" />
+        <module name="wang-rpc-server" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="tea-wang-common" target="1.8" />
+      <module name="tea-wang-rpc" target="1.8" />
+      <module name="wang" target="1.8" />
+      <module name="wang-common-model" target="1.8" />
+      <module name="wang-common-sdk" target="1.8" />
+      <module name="wang-common-service" target="1.8" />
+      <module name="wang-rpc-server" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
